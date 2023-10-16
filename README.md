@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**devpadilha/devpadilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Augusto and I'm a 20-year-old Brazilian (aspiring) developer. I'm currently studying Computer Science at UTFPR (Universidade Tecnológica Federal do Paraná).
 
-Here are some ideas to get you started:
+## Contact
+<a href="https://www.linkedin.com/in/augustopadilha/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50" width="60">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Knowledges
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align="center" height="50" width="60">
+  
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/java/java-original.svg" align="center" height="50" width="60">
+
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/dart/dart-original.svg" align="center" height="50" width="60">
+</div>
