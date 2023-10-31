@@ -12,7 +12,7 @@ My name is Augusto and I'm a 20-year-old Brazilian (aspiring) developer. I'm cur
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align="center" height="50" width="60">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" align="center" height="50" width="60">
           
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/flutter/flutter-original.svg" align="center" height="50" width="60">
 </div>
