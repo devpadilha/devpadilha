@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Augusto and I'm a 20-year-old Brazilian (aspiring) developer. I'm currently studying Computer Science at UTFPR (Universidade Tecnológica Federal do Paraná).
+My name is Augusto and I'm a 21-year-old Brazilian (aspiring) developer. I'm currently studying Computer Science at UTFPR (Universidade Tecnológica Federal do Paraná).
 
 ## Contact
 <a href="https://www.linkedin.com/in/augustopadilha/">
