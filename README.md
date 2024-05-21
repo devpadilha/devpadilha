@@ -10,7 +10,7 @@ My name is Augusto and I'm a 21-year-old Brazilian (aspiring) developer. I'm cur
 
 <div>
   
-  <p align=center>
+  <p align=left>
     <img src="https://skillicons.dev/icons?i=java,c,flutter,git,linux"/>
 </p>
           
