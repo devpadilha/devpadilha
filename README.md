@@ -3,8 +3,12 @@
 My name is Augusto and I'm a 21-year-old Brazilian (aspiring) developer. I'm currently studying Computer Science at UTFPR (Universidade Tecnológica Federal do Paraná).
 
 ## Contact
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:fpadilha.augusto@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([mailto:fpadilha.augusto@gmail.com](https://www.linkedin.com/in/augustopadilha/))
+<a href="https://www.linkedin.com/in/augustopadilha/">
+ <img src="https://skillicons.dev/icons?i=linkedin"/>
+
+<a href="malto:fpadilha.augusto@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
 ## Knowledges
 
