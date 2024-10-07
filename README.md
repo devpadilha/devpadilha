@@ -1,8 +1,6 @@
 # Hi 👋, I'm Augusto Padilha
 a 21-year-old Brazilian (aspiring) developer. I'm currently studying Computer Science at UTFPR (Universidade Tecnológica Federal do Paraná).
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devpadilha&label=Profile%20views&color=0e75b6&style=flat" alt="devpadilha" /> </p>
-
 - 🌱 I’m currently learning **Kotlin and KMM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devpadilha?tab=repositories](https://github.com/devpadilha?tab=repositories)
