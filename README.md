@@ -1,5 +1,5 @@
 # Hi 👋, I'm Augusto Padilha
-a 22-year-old Brazilian (aspiring) developer. I'm currently studying Computer Science at UTFPR (Universidade Tecnológica Federal do Paraná).
+a 22-year-old Brazilian full-stack developer. I'm currently studying Computer Science at UTFPR (Universidade Tecnológica Federal do Paraná) and working at LBM Engenharia (Campo Grande - MS).
 
 - 🌱 I’m currently learning **Inserting Machine Learning at a Refactoring Tool**
 
